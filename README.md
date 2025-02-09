@@ -1,0 +1,2 @@
+In this project we were tasked with training a model to classify whether a zulu article is talking or providing information about breast cancer or not. We finetuned an XLM roberta model for this task. We first adapted the model by making
+it classify between general health and non health articles, we the fine-tuned it for the domain specific task of classing Umdlavuza we bele related articles. We utilized LORa so that our 6GB 4050 rtx to could train the model fast.
